@@ -4,3 +4,5 @@ dist/
 mysqlcipher.egg-info/
 _sqlite*.so
 venv/
+sqlite3.c
+sqlite3.h
