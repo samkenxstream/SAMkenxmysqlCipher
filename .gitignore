@@ -1,6 +1,6 @@
-sqlcipher/sqlite3.h
-build/*
-dist/*
-mysqlcipher.egg-info/*
+sqlcipher/
+build/
+dist/
+mysqlcipher.egg-info/
 _sqlite*.so
 venv/
