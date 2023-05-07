@@ -1,8 +1,10 @@
 sqlcipher/
 build/
 dist/
+src/sqlite3.c
+src/sqlite3.h
 mysqlcipher.egg-info/
 _sqlite*.so
 venv/
-sqlite3.c
-sqlite3.h
+/sqlite3.c
+/sqlite3.h
